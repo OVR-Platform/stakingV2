@@ -88,8 +88,6 @@ Here is a graph of compound performance with an initial budget of 1000 OVR.
 <img src="compound_performance.png" style="width: 100%" /> 
 
 
-[Smart Contract Security Audit](https://assets.ovr.ai/download/documents/OVR%20-%20Smart%20Contract%20Security%20Audit%20Report.pdf)
-
 
 --------
 

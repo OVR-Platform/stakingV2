@@ -3,7 +3,6 @@ import "hardhat/console.sol";
 
 // ----------------------------------------------------------------------------
 // ERC Token Standard #20 Interface
-//
 // ----------------------------------------------------------------------------
 contract ERC20Interface {
     function totalSupply() public view returns (uint256);
