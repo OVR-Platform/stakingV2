@@ -42,12 +42,12 @@ task("blockNumber", "Prints the current block number", async (_, { ethers }) => 
 module.exports = {
   solidity: "0.5.16",
   etherscan: {
-    apiKey: "JDXPI4CQHU3QG7PYF9FUQRJRWHW4WAXBFC",
+    apiKey: "",
   },
   gasReporter: {
     currency: "USD",
     // gasPrice: 21, // Default is loaded at runtime from the eth gas station api
-    coinmarketcap: "3eed839e-7256-482e-89ab-7c03fa62d833",
+    coinmarketcap: "",
   },
   // networks: {
   //   rinkeby: {
